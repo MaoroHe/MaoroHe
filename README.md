@@ -1,7 +1,7 @@
 <h1 align="center">Salut! Je suis Maoro Hecq</h1>
 <h3 align="center">Un apprenti Junior Web Developper</h3>
 
-- 🌱 J'apprend actuellement **MySQL**
+- 🌱 J'apprend actuellement **Rust**
 
 - 👨‍💻 Tout mes projets sont disponible sur: [https://github.com/MaoroHe](https://github.com/MaoroHe)
 
