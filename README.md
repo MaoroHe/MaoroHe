@@ -5,7 +5,7 @@
 
 - 👨‍💻 Tout mes projets sont disponible sur: [https://github.com/MaoroHe](https://github.com/MaoroHe)
 
-- 📫 Comment me contacter ? **maorohecq1409@gmail.com**
+- 📫 Comment me contacter ? **maorohcq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
